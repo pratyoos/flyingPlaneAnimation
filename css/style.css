@@ -28,6 +28,7 @@
     bottom: 150px;
     right: -200px;
     animation: plan 4s linear infinite;
+    transform-origin: 100% 50%;
 }
 
 @keyframes plan{
