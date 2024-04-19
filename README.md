@@ -1,2 +1,2 @@
 # flyingPlaneAnimation
-css animation of fying plane using media queries
+# css animation of fying plane using media queries
